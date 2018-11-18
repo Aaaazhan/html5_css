@@ -1,0 +1,15 @@
+.center{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+.text{
+    	display:flex;
+    	justify-content: space-between;
+    	}
+
+#size{
+	max-width:35rem;
+	max-height:35rem;
+	}
+
